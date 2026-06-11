@@ -339,7 +339,3 @@ Role check ──► Admin? → Admin Dashboard
 This project was developed as a university course project for **Data Structures & Algorithms / Information Security / Software Engineering**.
 
 ---
-
-<p align="center">
-  Built with ❤️ using Flask & Python
-</p>
